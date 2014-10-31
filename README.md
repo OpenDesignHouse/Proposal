@@ -7,16 +7,12 @@ Open source design and architecture is a growing field of practice, as evidenced
 
 [http:&#x2F;&#x2F;www.pinterest.com&#x2F;pin&#x2F;410320216021506238&#x2F;](http&#x3a;&#x2F;&#x2F;www&#x2e;pinterest&#x2e;com&#x2F;pin&#x2F;410320216021506238&#x2F;)
 
-Climate change...
-
-We want our design and practices to be tested further, iterated and localized in communities around the world.
-Standardized - agile - open - iterative - ???
+The design and practices have been developed by families building their houses in the Nordics for decades. We want our design and practices to be tested further, iterated and localized in communities around the world. This way we can build even more efficient and better quality houses in the future. Improving uses of easily reproduceable timber materials enables standardization, agile design improvements and traditional iterative approach to improving the house design.
 
 Folk School of the Commons
 
 Refactoring and updating the traditional models.
-they are fairly &quot;traditional&quot;, though there are some that have fairly complex technical ways to create savings in material.
-i think they should be more simple in material and more simple to fix. obviously, the manufacturers want to create a technology lock-in.
+Houses should be of simple materials and as simple to fix as possible. Obviously it is in the intrest of some of the manufacturers to create a technology lock-in. Unfortunately, this practice leads to people having less money to invest in good-quality materials, and people less likely to invest in construction as a family hobby.
 [http:&#x2F;&#x2F;arkkitehtitoimistolilja.com&#x2F;arktsto.gif](http&#x3a;&#x2F;&#x2F;arkkitehtitoimistolilja&#x2e;com&#x2F;arktsto&#x2e;gif)
 
 **Operational**
@@ -31,6 +27,7 @@ We partner with Makerspaces and other builders in local communities, Finnish cul
 *   Learn traditional building methods
 *   Re-connect with cultural heritage (cultural healing)
 *   Participate in slow construction
+*   Build houses that endure pressures of climate change, both colder and warmer weather, even where this was not required earlier.
 *   Live in affordable, eco-friendly home (use local materials, eco-conscious design, build it yourself)
 <u>Unlike Other Models...</u>
 
@@ -43,7 +40,7 @@ We partner with Makerspaces and other builders in local communities, Finnish cul
 
 **Project Partners and Sponsors**
 
-*   Finland institute - [http:&#x2F;&#x2F;www.fciny.org&#x2F;institute&#x2F;](http&#x3a;&#x2F;&#x2F;www&#x2e;fciny&#x2e;org&#x2F;institute&#x2F;)
+*   Finnish Institute in New York - [http:&#x2F;&#x2F;www.fciny.org&#x2F;institute&#x2F;](http&#x3a;&#x2F;&#x2F;www&#x2e;fciny&#x2e;org&#x2F;institute&#x2F;)
 *   [http:&#x2F;&#x2F;finlandiafoundation.org&#x2F;](http&#x3a;&#x2F;&#x2F;finlandiafoundation&#x2e;org&#x2F;)
 *   [http:&#x2F;&#x2F;www.finnishculture.org&#x2F;](http&#x3a;&#x2F;&#x2F;www&#x2e;finnishculture&#x2e;org&#x2F;)
 **Links for Later:**
@@ -53,7 +50,7 @@ We partner with Makerspaces and other builders in local communities, Finnish cul
 *   [http:&#x2F;&#x2F;www.instituutit.fi&#x2F;en&#x2F;contact&#x2F;](http&#x3a;&#x2F;&#x2F;www&#x2e;instituutit&#x2e;fi&#x2F;en&#x2F;contact&#x2F;)
 *   [http:&#x2F;&#x2F;www.hmilumber.com&#x2F;](http&#x3a;&#x2F;&#x2F;www&#x2e;hmilumber&#x2e;com&#x2F;)
 *   Commercial version - [http:&#x2F;&#x2F;www.designtalo.fi&#x2F;fi&#x2F;virhe&#x2F;](http&#x3a;&#x2F;&#x2F;www&#x2e;designtalo&#x2e;fi&#x2F;fi&#x2F;virhe&#x2F;) and [http:&#x2F;&#x2F;www.herrala.fi&#x2F;talomallisto&#x2F;talo&#x2F;15-kerroksiset&#x2F;suvisalo-11343](http&#x3a;&#x2F;&#x2F;www&#x2e;herrala&#x2e;fi&#x2F;talomallisto&#x2F;talo&#x2F;15&#x2d;kerroksiset&#x2F;suvisalo&#x2d;11343)
-*   Godmother&#x27;s Drawings - [http:&#x2F;&#x2F;www.pinterest.com&#x2F;ullamaijalilja&#x2F;my-own-works-illustrations&#x2F;](http&#x3a;&#x2F;&#x2F;www&#x2e;pinterest&#x2e;com&#x2F;ullamaijalilja&#x2F;my&#x2d;own&#x2d;works&#x2d;illustrations&#x2F;)
+*   Architects Illustrations - [http:&#x2F;&#x2F;www.pinterest.com&#x2F;ullamaijalilja&#x2F;my-own-works-illustrations&#x2F;](http&#x3a;&#x2F;&#x2F;www&#x2e;pinterest&#x2e;com&#x2F;ullamaijalilja&#x2F;my&#x2d;own&#x2d;works&#x2d;illustrations&#x2F;)
 *   Modern version in Helsinki - [http:&#x2F;&#x2F;www.puuinfo.fi&#x2F;sites&#x2F;default&#x2F;files&#x2F;content&#x2F;info&#x2F;puuinfon-julkaisut-kuluttajille&#x2F;helsinki-pientaloesite.pdf](http&#x3a;&#x2F;&#x2F;www&#x2e;puuinfo&#x2e;fi&#x2F;sites&#x2F;default&#x2F;files&#x2F;content&#x2F;info&#x2F;puuinfon&#x2d;julkaisut&#x2d;kuluttajille&#x2F;helsinki&#x2d;pientaloesite&#x2e;pdf)
 *   Grants - [http:&#x2F;&#x2F;responsibility.lowes.com&#x2F;apply-for-a-grant&#x2F;](http&#x3a;&#x2F;&#x2F;responsibility&#x2e;lowes&#x2e;com&#x2F;apply&#x2d;for&#x2d;a&#x2d;grant&#x2F;)
 **People for Later:**
