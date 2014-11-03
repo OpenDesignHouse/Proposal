@@ -1,7 +1,7 @@
 Finnish Open Design House
 =========================
 
-**Keywords:** open design, architecture, open source, traditional construction, &quot;slow construction&quot;, cultural practices
+**Keywords:** open design, architecture, open source, traditional construction, slow construction, cultural practices
 
 **Our Project:**
 Open source design and architecture is a growing field of practice, as evidenced by [OpenDesk.cc](http://www.opendesk.cc), [WikiHouse.cc](http://www.wikihouse.cc/), [Open Source Ecology](http://opensourceecology.org), and [Open Source Beehives](http://opensourcebeehives.net). Like these projects, the Finnish Open Design House creates and open sources tools, designs, and guidebooks so that anyone can build a traditional Finnish home for themselves. Unlike these other projects, which focus on automated construction systems like CNC Routers and 3D printers, the Finnish Open Design House will use modernized versions of traditional construction methods and standard local materials to build these homes. In so doing, it will allow everyday people to develop meaningful skills, will revitalize traditional practices and connect people to their roots, and will allow people to build solid, lasting homes in which to live. It is construction that will last and that cares for the environment by using local, sustainable materials and energy efficient construction. Where other projects seek to accelarate the process of building and making new objects, we are creating a "slow building" movement that involves attention to social and cultural practices that protect the environment and care for our spiritual and cultural well-being.
@@ -9,9 +9,7 @@ Open source design and architecture is a growing field of practice, as evidenced
 
 The design and practices we use were developed by families building their houses in the Nordic countries for decades. We want our design and practices to be tested further, iterated and localized in communities around the world. This way we can build even more efficient and better quality houses in the future. Improving uses of easily reproduceable timber materials enables standardization, agile design improvements, and a traditional iterative approach to improving the house design.
 
-**Making It Happen**
-
-We partner with Makerspaces and other craftspeople in local communities, Finnish cultural institutes, and construction supply organizations to forge partnerships that promote ecologically friendly, &quot;slow construction&quot; and traditional building.&nbsp; We work with families and&#x2F;or local organisations wanting to build traditional housing.
+**Making It Happen:** We partner with Makerspaces and other craftspeople in local communities, Finnish cultural institutes, and construction supply organizations to forge partnerships that promote ecologically friendly, &quot;slow construction&quot; and traditional building.&nbsp; We work with families and&#x2F;or local organisations wanting to build traditional housing.
 
 Houses will be made of simple materials and as easy to fix as possible. While many traditional housing manufacturers create a technology lock-in (making repairs and alterations difficult and costly), we're aiming to make tools, materials, and methods open and accessible. Closed practices lead to high costs of shipping, low quality materials, and projects which are not adapted to local practices and commmunities. They also fail to generate interest in traditional construction practices and ecological approaches, as well as to develop local adaptations of traditional practices. 
 [http://arkkitehtitoimistolilja.com/arktsto.gif](http&#x3a;&#x2F;&#x2F;arkkitehtitoimistolilja&#x2e;com&#x2F;arktsto&#x2e;gif)
