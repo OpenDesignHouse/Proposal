@@ -3,13 +3,13 @@ Finnish Open Design House
 
 **Keywords:** open design, architecture, open source, traditional construction, &quot;slow construction&quot;, cultural practices
 
-**Idea story**
+**Our Project:**
 Open source design and architecture is a growing field of practice, as evidenced by [OpenDesk.cc](http://www.opendesk.cc), [WikiHouse.cc](http://www.wikihouse.cc/), [Open Source Ecology](http://opensourceecology.org), and [Open Source Beehives](http://opensourcebeehives.net). Like these projects, the Finnish Open Design House creates and open sources tools, designs, and guidebooks so that anyone can build a traditional Finnish home for themselves. Unlike these other projects, which focus on automated construction systems like CNC Routers and 3D printers, the Finnish Open Design House will use modernized versions of traditional construction methods and standard local materials to build these homes. In so doing, it will allow everyday people to develop meaningful skills, will revitalize traditional practices and connect people to their roots, and will allow people to build solid, lasting homes in which to live. It is construction that will last and that cares for the environment by using local, sustainable materials and energy efficient construction. Where other projects seek to accelarate the process of building and making new objects, we are creating a "slow building" movement that involves attention to social and cultural practices that protect the environment and care for our spiritual and cultural well-being.
 <img src="http://media-cache-ec0.pinimg.com/originals/63/86/95/6386959f542617938cfe5cdd29a702e3.jpg" height="300" align="left" hspace="15" vspace="15" />
 
 The design and practices we use were developed by families building their houses in the Nordic countries for decades. We want our design and practices to be tested further, iterated and localized in communities around the world. This way we can build even more efficient and better quality houses in the future. Improving uses of easily reproduceable timber materials enables standardization, agile design improvements, and a traditional iterative approach to improving the house design.
 
-**Operational**
+**Making It Happen**
 
 We partner with Makerspaces and other craftspeople in local communities, Finnish cultural institutes, and construction supply organizations to forge partnerships that promote ecologically friendly, &quot;slow construction&quot; and traditional building.&nbsp; We work with families and&#x2F;or local organisations wanting to build traditional housing.
 
