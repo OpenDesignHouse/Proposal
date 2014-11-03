@@ -16,6 +16,12 @@ We partner with Makerspaces and other craftspeople in local communities, Finnish
 Houses will be made of simple materials and as easy to fix as possible. While many traditional housing manufacturers create a technology lock-in (making repairs and alterations difficult and costly), we're aiming to make tools, materials, and methods open and accessible. Closed practices lead to high costs of shipping, low quality materials, and projects which are not adapted to local practices and commmunities. They also fail to generate interest in traditional construction practices and ecological approaches, as well as to develop local adaptations of traditional practices. 
 [http://arkkitehtitoimistolilja.com/arktsto.gif](http&#x3a;&#x2F;&#x2F;arkkitehtitoimistolilja&#x2e;com&#x2F;arktsto&#x2e;gif)
 
+With project partners, we will:
+1. Develop demonstration designs and guides used in Finland to build traditional houses.
+2. Collaborate on the ground in the USA with Finnish-Americans and makers to build localized versions of traditional houses.
+3. Document these iterated designs and building guides.
+4. Support others to build their own traditional homes. 
+
 Value Promise
 -------------
 
@@ -35,3 +41,8 @@ Value Promise
 
 Description of Work
 -------------------
+In **Phase 1** of the project, we will work with Finnish designers and architects to create a design and construction guide for a traditional Finnish house using materials local to Finland. We will construct a demo house to test the plans and work out any issues.
+
+In **Phase 2** of our work, we will partner with Finnish-American communities, local Makerspaces, and lumber supply organizations to design several open events that iterate the Finnish designs and building guides, collaborate on building demo houses and fixing design "bugs", documenting the designs and building process, and promoting the work.
+
+In **Phase 3** we will work with organizations in the region to support affordable construction of these houses for and by families that want to live in them. Our goal will be to revitalize traditional housing construction and create ecologically friendly, sustainable, and comfortable houses for families.
