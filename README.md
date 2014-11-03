@@ -17,6 +17,7 @@ Houses will be made of simple materials and as easy to fix as possible. While ma
 [http://arkkitehtitoimistolilja.com/arktsto.gif](http&#x3a;&#x2F;&#x2F;arkkitehtitoimistolilja&#x2e;com&#x2F;arktsto&#x2e;gif)
 
 With project partners, we will:
+
 1. Develop demonstration designs and guides used in Finland to build traditional houses.
 2. Collaborate on the ground in the USA with Finnish-Americans and makers to build localized versions of traditional houses.
 3. Document these iterated designs and building guides.
