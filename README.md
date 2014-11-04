@@ -3,9 +3,18 @@ Finnish Open Design House
 
 **Keywords:** open design, architecture, open source, traditional construction, slow construction, cultural practices
 
-**Mission:**
+**Mission:** To make traditional home construction methods and designs open to everybody.
 
-**Our Project:**
+Description of Work
+-------------------
+In **Phase 1** of the project, we will work with Finnish designers and architects to create a design and construction guide for a traditional Finnish house using materials local to Finland. We will construct a demo house to test the plans and work out any issues.
+
+In **Phase 2** of our work, we will partner with Finnish-American communities, local Makerspaces, and lumber supply organizations to design several open events that iterate the Finnish designs and building guides, collaborate on building demo houses and fixing design "bugs", documenting the designs and building process, and promoting the work.
+
+In **Phase 3** we will work with organizations in the region to support affordable construction of these houses for and by families that want to live in them. Our goal will be to revitalize traditional housing construction and create ecologically friendly, sustainable, and comfortable houses for families.
+
+Our Project
+-----------
 Open source design and architecture is a growing field of practice, as evidenced by [OpenDesk.cc](http://www.opendesk.cc), [WikiHouse.cc](http://www.wikihouse.cc/), [Open Source Ecology](http://opensourceecology.org), and [Open Source Beehives](http://opensourcebeehives.net). Like these projects, the Finnish Open Design House creates and open sources tools, designs, and guidebooks so that anyone can build a traditional Finnish home for themselves. Unlike these other projects, which focus on automated construction systems like CNC Routers and 3D printers, the Finnish Open Design House will use modernized versions of traditional construction methods and standard local materials to build these homes. In so doing, it will allow everyday people to develop meaningful skills, will revitalize traditional practices and connect people to their roots, and will allow people to build solid, lasting homes in which to live. It is construction that will last and that cares for the environment by using local, sustainable materials and energy efficient construction. Where other projects seek to accelarate the process of building and making new objects, we are creating a "slow building" movement that involves attention to social and cultural practices that protect the environment and care for our spiritual and cultural well-being.
 <img src="http://media-cache-ec0.pinimg.com/originals/63/86/95/6386959f542617938cfe5cdd29a702e3.jpg" height="300" align="left" hspace="15" vspace="15" />
 
@@ -38,12 +47,3 @@ Value Promise
 **Unlike Other Models...**
 *   You don&#x27;t need to worry about expensive materials being exported or shipped, a model which is not ecologically sustainable and is proprietary and dependent on the companies producing the materials: So there are bunch of these kinds of houses like this designtalo.fi&#x2F;fi&#x2F;suosituimma&#8230;, some of them even export to uk.
 *   You aren&#x27;t reliant upon a single source for the designs, so &quot;bugs&quot; are more likely to be worked out in advance - the advantage of MANY eyes and MANY tries!
-
-
-Description of Work
--------------------
-In **Phase 1** of the project, we will work with Finnish designers and architects to create a design and construction guide for a traditional Finnish house using materials local to Finland. We will construct a demo house to test the plans and work out any issues.
-
-In **Phase 2** of our work, we will partner with Finnish-American communities, local Makerspaces, and lumber supply organizations to design several open events that iterate the Finnish designs and building guides, collaborate on building demo houses and fixing design "bugs", documenting the designs and building process, and promoting the work.
-
-In **Phase 3** we will work with organizations in the region to support affordable construction of these houses for and by families that want to live in them. Our goal will be to revitalize traditional housing construction and create ecologically friendly, sustainable, and comfortable houses for families.
