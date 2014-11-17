@@ -23,7 +23,6 @@ The design and practices we use were developed by families building their houses
 **Making It Happen:** We partner with Makerspaces and other craftspeople in local communities, Finnish cultural institutes, and construction supply organizations to forge partnerships that promote ecologically friendly, &quot;slow construction&quot; and traditional building.&nbsp; We work with families and&#x2F;or local organisations wanting to build traditional housing.
 
 Houses will be made of simple materials and as easy to fix as possible. While many traditional housing manufacturers create a technology lock-in (making repairs and alterations difficult and costly), we're aiming to make tools, materials, and methods open and accessible. Closed practices lead to high costs of shipping, low quality materials, and projects which are not adapted to local practices and commmunities. They also fail to generate interest in traditional construction practices and ecological approaches, as well as to develop local adaptations of traditional practices. 
-<img src="http://www.arkkitehtitoimistolilja.com/arktsto.gif" height="300" align="right" hspace="15" vspace="15" />
 
 With project partners, we will:
 
